@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36001.139
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFDemo02-KuangJia", "WFDemo02-KuangJia\WFDemo02-KuangJia.csproj", "{0ED05F5A-4A1E-4309-8693-8309117FBBBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{50C266B5-AC8B-47C9-BAE6-C59A3C9B50A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{770B582F-7E37-4230-86D6-1EF2C8525AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED05F5A-4A1E-4309-8693-8309117FBBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED05F5A-4A1E-4309-8693-8309117FBBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED05F5A-4A1E-4309-8693-8309117FBBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED05F5A-4A1E-4309-8693-8309117FBBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C266B5-AC8B-47C9-BAE6-C59A3C9B50A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C266B5-AC8B-47C9-BAE6-C59A3C9B50A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C266B5-AC8B-47C9-BAE6-C59A3C9B50A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C266B5-AC8B-47C9-BAE6-C59A3C9B50A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770B582F-7E37-4230-86D6-1EF2C8525AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770B582F-7E37-4230-86D6-1EF2C8525AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770B582F-7E37-4230-86D6-1EF2C8525AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770B582F-7E37-4230-86D6-1EF2C8525AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7678FAC9-20E6-43C3-9570-63F8881BA064}
+	EndGlobalSection
+EndGlobal
